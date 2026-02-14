@@ -313,7 +313,7 @@ export default function References() {
             E'tiboringiz uchun rahmat!
           </h3>
           <p className="text-lg text-earth-600">
-            Birgalikda iqlim adolati uchun kurashaylik 🌍💚
+            Bu Sobirov Ibrohim tomonidan bajarilgan loyiha ishi
           </p>
         </motion.div>
       </div>
