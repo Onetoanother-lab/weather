@@ -38,7 +38,7 @@ export default function Ethics() {
             <br />
             <span className="text-ocean-600">Bu to'g'rimi?</span>
           </h1>
-          <p className="section-subtitle">
+          <p className="section-subtitle text-center mx-auto">
             Iqlim adolati oddiy axloqiy printsiplar haqida
           </p>
         </motion.div>

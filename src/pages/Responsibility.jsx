@@ -51,7 +51,7 @@ export default function Responsibility() {
             <br />
             <span className="text-crisis-600">to'lashi kerak?</span>
           </h1>
-          <p className="section-subtitle">
+          <p className="section-subtitle text-center mx-auto">
             Mas'uliyat va harakat - har kim o'z rolini bilishi kerak
           </p>
         </motion.div>

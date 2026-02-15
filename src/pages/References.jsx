@@ -131,7 +131,7 @@ export default function References() {
             <br />
             <span className="text-ocean-600">ma'lumotlar</span>
           </h1>
-          <p className="section-subtitle">
+          <p className="section-subtitle text-center mx-auto">
             Barcha faktlar ishonchli manbalardan olingan
           </p>
         </motion.div>
@@ -313,7 +313,7 @@ export default function References() {
             E'tiboringiz uchun rahmat!
           </h3>
           <p className="text-lg text-earth-600">
-            Bu Sobirov Ibrohim tomonidan bajarilgan loyiha ishi
+            Sobirov Ibrohim tomonidan yaratilgan
           </p>
         </motion.div>
       </div>

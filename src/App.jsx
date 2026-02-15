@@ -3,6 +3,8 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Navigation from './components/Navigation'
 import LoadingScreen from './components/LoadingScreen'
 import PageTransition from './components/PageTransition'
+import StormEffect from './components/StormEffect'
+import MegaParticleSystem from './components/MegaParticleSystem'
 
 // Lazy load pages for better performance
 const Home = lazy(() => import('./pages/Home'))
@@ -17,7 +19,9 @@ const References = lazy(() => import('./pages/References'))
 function App() {
   return (
     <Router>
-      <div className="min-h-screen bg-gradient-to-br from-earth-50 via-ocean-50 to-earth-100">
+      <div className="min-h-screen bg-gradient-to-br from-slate-900 via-blue-900 to-slate-900">
+        <StormEffect />
+        <MegaParticleSystem />
         <Navigation />
         
         <Suspense fallback={<LoadingScreen />}>

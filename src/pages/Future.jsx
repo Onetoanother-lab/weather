@@ -67,7 +67,7 @@ export default function Future() {
             <br />
             <span className="text-ocean-600">Umid va yechimlar</span>
           </h1>
-          <p className="section-subtitle">
+          <p className="section-subtitle text-center mx-auto">
             Biz o'zgarish yaratishimiz mumkin - birgalikda
           </p>
         </motion.div>
