@@ -21,16 +21,16 @@ export default function Home() {
 
           {/* Main Title */}
           <h1 className="section-title mb-8">
-            Iqlim o'zgarishi uchun
+            Iqlim o'zgarishi kimga
             <br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-orange-500">
-              kim to'laydi?
+              qimmatga tushadi
             </span>
           </h1>
 
           {/* Subtitle */}
           <p className="section-subtitle text-center mx-auto">
-            Eng ko'p zarar ko'rayotgan davlatlar va nega bu{' '}
+            Eng ko'p zarar ko'rayotgan davlatlar va nega bu holat{' '}
             <span className="font-bold text-red-400">adolatsiz?</span>
           </p>
         </motion.div>
